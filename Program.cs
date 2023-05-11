@@ -10,7 +10,7 @@
             Console.WriteLine("Welp conflict");
             
             
-            for (int i=0; i<102568300; i++) {
+            for (int i=0; i<1025683900; i++) {
 
                 Console.WriteLine(i);
             
