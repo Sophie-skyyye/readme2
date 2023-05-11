@@ -5,9 +5,19 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hopefully this breaks things");
+            Console.WriteLine("asSASAaasa");
             Console.WriteLine("Welp conflict");
-            console.Writeline(121261739723198713987179872140910980982098240988240982093112921090909090000000000000009999999999999999999999999991219210291023902392102380291802192109218321);
             
+            
+            for (int i=0; i<102568300; i++) {
+
+                Console.WriteLine(i);
+            
+            
+            }
+            Console.ReadLine();
+         
         }
     }
 }
