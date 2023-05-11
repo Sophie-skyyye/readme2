@@ -11,12 +11,6 @@
 
             Console.WriteLine("Welp conflict");
 
-            while (true) 
-            {
-                Console.WriteLine(" EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE");
-            } 
-
-
         }
     }
 }
